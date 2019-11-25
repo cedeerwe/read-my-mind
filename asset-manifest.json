@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/read-my-mind/static/css/main.7b52e7e6.chunk.css",
-    "main.js": "/read-my-mind/static/js/main.f9c0baf7.chunk.js",
-    "main.js.map": "/read-my-mind/static/js/main.f9c0baf7.chunk.js.map",
+    "main.js": "/read-my-mind/static/js/main.8c24c13f.chunk.js",
+    "main.js.map": "/read-my-mind/static/js/main.8c24c13f.chunk.js.map",
     "runtime-main.js": "/read-my-mind/static/js/runtime-main.974690a2.js",
     "runtime-main.js.map": "/read-my-mind/static/js/runtime-main.974690a2.js.map",
     "static/css/2.510409cd.chunk.css": "/read-my-mind/static/css/2.510409cd.chunk.css",
     "static/js/2.c6e2a44e.chunk.js": "/read-my-mind/static/js/2.c6e2a44e.chunk.js",
     "static/js/2.c6e2a44e.chunk.js.map": "/read-my-mind/static/js/2.c6e2a44e.chunk.js.map",
     "index.html": "/read-my-mind/index.html",
-    "precache-manifest.209ca200e12811c01fa0b396a5d388f1.js": "/read-my-mind/precache-manifest.209ca200e12811c01fa0b396a5d388f1.js",
+    "precache-manifest.bc680aeb2498e595c42a78b911cff7bd.js": "/read-my-mind/precache-manifest.bc680aeb2498e595c42a78b911cff7bd.js",
     "service-worker.js": "/read-my-mind/service-worker.js",
     "static/css/2.510409cd.chunk.css.map": "/read-my-mind/static/css/2.510409cd.chunk.css.map",
     "static/css/main.7b52e7e6.chunk.css.map": "/read-my-mind/static/css/main.7b52e7e6.chunk.css.map"
@@ -19,6 +19,6 @@
     "static/css/2.510409cd.chunk.css",
     "static/js/2.c6e2a44e.chunk.js",
     "static/css/main.7b52e7e6.chunk.css",
-    "static/js/main.f9c0baf7.chunk.js"
+    "static/js/main.8c24c13f.chunk.js"
   ]
 }
