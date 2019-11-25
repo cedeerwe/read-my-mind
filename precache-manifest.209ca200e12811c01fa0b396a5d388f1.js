@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6a5399f3e36d9c1096da00dd15d9748b",
+    "revision": "da0cddc8cedbcf9fe93aa804a4475652",
     "url": "/read-my-mind/index.html"
   },
   {
-    "revision": "09ddef13f2db779ab5ee",
+    "revision": "e8589c72c83aeb145c2d",
     "url": "/read-my-mind/static/css/2.510409cd.chunk.css"
   },
   {
-    "revision": "579d5b391396bda37aaa",
+    "revision": "05e8dea1b9ab00d9ed7d",
     "url": "/read-my-mind/static/css/main.7b52e7e6.chunk.css"
   },
   {
-    "revision": "09ddef13f2db779ab5ee",
-    "url": "/read-my-mind/static/js/2.aeeeddab.chunk.js"
+    "revision": "e8589c72c83aeb145c2d",
+    "url": "/read-my-mind/static/js/2.c6e2a44e.chunk.js"
   },
   {
-    "revision": "579d5b391396bda37aaa",
-    "url": "/read-my-mind/static/js/main.ac63c9b8.chunk.js"
+    "revision": "05e8dea1b9ab00d9ed7d",
+    "url": "/read-my-mind/static/js/main.f9c0baf7.chunk.js"
   },
   {
     "revision": "e030583d8f257aaa338b",
